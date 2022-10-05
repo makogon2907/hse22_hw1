@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	Paired2	/home/aamakogon/homeworks/hw1/fastqc_trimmed/Paired2.fastq.trimmed_fastqc.zip
+FastQC	all_sections	Mate1	/home/aamakogon/homeworks/hw1/fastqc_trimmed/Mate1.fastq.int_trimmed_fastqc.zip
+FastQC	all_sections	Mate2	/home/aamakogon/homeworks/hw1/fastqc_trimmed/Mate2.fastq.int_trimmed_fastqc.zip
+FastQC	all_sections	Paired1	/home/aamakogon/homeworks/hw1/fastqc_trimmed/Paired1.fastq.trimmed_fastqc.zip
